@@ -2,7 +2,7 @@
 
 # Description 
 
-This is a back end application for a e-commerce website that uses the latest technologies. Built using MySQL2, Express, Sequelize and dotenv.
+This is a back end application for a e-commerce website that uses the latest technologies. Built with MySQL2, Express, Sequelize and dotenv.
 
 # Installation
 
@@ -39,7 +39,7 @@ https://watch.screencastify.com/v/LEa0hUVXCHBAInyHCzv4
 
 # GitHub Repo Link:
 
-
+https://github.com/AkhilaSrinagula/13-Object-Relational-Mapping.git
 
 # Questions
 
